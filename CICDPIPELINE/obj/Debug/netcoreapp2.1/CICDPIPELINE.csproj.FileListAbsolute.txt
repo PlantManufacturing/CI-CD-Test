@@ -1,0 +1,14 @@
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\bin\Debug\netcoreapp2.1\CICDPIPELINE.deps.json
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\bin\Debug\netcoreapp2.1\CICDPIPELINE.runtimeconfig.json
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\bin\Debug\netcoreapp2.1\CICDPIPELINE.runtimeconfig.dev.json
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\bin\Debug\netcoreapp2.1\CICDPIPELINE.dll
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\bin\Debug\netcoreapp2.1\CICDPIPELINE.pdb
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.csprojAssemblyReference.cache
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.csproj.CoreCompileInputs.cache
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.RazorAssemblyInfo.cache
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.RazorAssemblyInfo.cs
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.AssemblyInfoInputs.cache
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.AssemblyInfo.cs
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.RazorTargetAssemblyInfo.cache
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.dll
+C:\Users\jeet saxena\source\repos\CICDPIPELINE\CICDPIPELINE\obj\Debug\netcoreapp2.1\CICDPIPELINE.pdb
