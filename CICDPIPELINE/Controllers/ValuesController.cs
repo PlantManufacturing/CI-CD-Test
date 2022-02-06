@@ -21,7 +21,7 @@ namespace CICDPIPELINE.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "values";
+            return "values1";
         }
 
         // POST api/values
