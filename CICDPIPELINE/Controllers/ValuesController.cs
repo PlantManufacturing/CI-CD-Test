@@ -14,7 +14,7 @@ namespace CICDPIPELINE.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "This is from CI/CD PIpeline from git" };
+            return new string[] { "This is from CI/CD PIpeline from git 1" };
         }
 
         // GET api/values/5
